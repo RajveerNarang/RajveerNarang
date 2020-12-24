@@ -1,11 +1,5 @@
-<!-- Hi there 👋
-
-<!--
-**RajveerNarang/RajveerNarang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.>
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+ Hi there 👋
+ - 🔭 I’m currently working on ...
 Python with help of self paced projects do check out my Python Repository
 - 🌱 I’m currently learning ...
 FullStack  for Web 
@@ -15,4 +9,10 @@ FullStack  for Web
 - 📫 How to reach me: ... Github!! Why Not? More ways to reach coming soon....
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...  Coming soon....
--->
+
+<!--
+**RajveerNarang/RajveerNarang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.>
+
+Here are some ideas to get you started:
+
+
