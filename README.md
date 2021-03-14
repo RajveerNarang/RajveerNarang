@@ -10,7 +10,7 @@ Python with help of self paced projects do check out my Python Repository
 - ⚡ Fun fact: ...  Coming soon....
 
 
-![java-logo](https://user-images.githubusercontent.com/60134939/111063777-99045d80-84d6-11eb-8e57-a739366a4b58.png)
+
 
 
 <!--
