@@ -8,6 +8,7 @@ Python with help of self paced projects do check out my Python Repository
 - 📫 How to reach me: ... Github!! Why Not? alternativley use rajveernarang.github.io  (More ways to reach coming soon....)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...  Coming soon....
+- https://www.iconspng.com/uploads/java-logo.png
 
 <!--
 **RajveerNarang/RajveerNarang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.>
@@ -15,4 +16,4 @@ Python with help of self paced projects do check out my Python Repository
 Here are some ideas to get you started:
 
 
-https://www.iconspng.com/uploads/java-logo.png
+
